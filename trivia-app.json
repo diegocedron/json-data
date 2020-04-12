@@ -6,7 +6,7 @@
     {
         "pregunta": "Su chiva es de superficie lisa?",
         "respuesta": false
-    }
+    },
     {
         "pregunta": "Cuando teo no se baña, su arruga huele a Tor-tees?",
         "respuesta": true
@@ -14,7 +14,7 @@
     {
         "pregunta": "Tiene los ojos con fondo rojizo?",
         "respuesta": true
-    }
+    },
     {
         "pregunta": "Orejas quietas?",
         "respuesta": false
@@ -22,7 +22,7 @@
     {
         "pregunta": "Sus crocs podrian hacerte daño si las frotas en ti?",
         "respuesta": true
-    }
+    },
     {
         "pregunta": "Su cola tiene un solo hueso?",
         "respuesta": false
@@ -30,7 +30,7 @@
     {
         "pregunta": "Teo cumplira cuatrito?",
         "respuesta": false
-    }
+    },
     {
         "pregunta": "Sus comidas favoritas son higado,pizza y pollo a la brasa?",
         "respuesta": true
@@ -38,7 +38,7 @@
     {
         "pregunta": "Ama con su vida comer su ricocan",
         "respuesta": false
-    }
+    },
     {
         "pregunta": "De algo le sirvio su operación? ",
         "respuesta": false
