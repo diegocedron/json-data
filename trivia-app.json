@@ -1,0 +1,10 @@
+[
+    {
+        "pregunta": "Prueba 1",
+        "respuesta": true
+    },
+    {
+        "pregunta": "Prueba 2",
+        "respuesta": false
+    }
+]
