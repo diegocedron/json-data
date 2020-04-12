@@ -15,21 +15,10 @@
         "pregunta": "Tiene los ojos con fondo rojizo?",
         "respuesta": true
     },
-    {
-        "pregunta": "Orejas quietas?",
-        "respuesta": false
-    },
+   
     {
         "pregunta": "Sus crocs podrian hacerte daño si las frotas en ti?",
         "respuesta": true
-    },
-    {
-        "pregunta": "Su cola tiene un solo hueso?",
-        "respuesta": false
-    },
-    {
-        "pregunta": "Teo cumplira cuatrito?",
-        "respuesta": false
     },
     {
         "pregunta": "Sus comidas favoritas son higado,pizza y pollo a la brasa?",
@@ -46,5 +35,51 @@
     {
         "pregunta": "Su juguete preferido es su mono?",
         "respuesta": false
-    }
-]
+    },
+    
+{
+    "pregunta":"Teo nació el 18 de mayo de 2016?",
+    "respuesta":false
+},
+{
+    "pregunta":"Se gastó aproximadamente 500 soles en la clinica Rondon, solo por su obesidad?",
+    "respuesta":true
+},
+{
+    "pregunta":"Su DNI fue emitido el 31/01/19?",
+    "respuesta":false
+},
+{
+    "pregunta":"Su DNI costó en total 17 soles?",
+    "respuesta":true
+},
+{
+    "pregunta":"Volky Dolky es su veterinaria de confianza?",
+    "respuesta":true
+},
+{
+    "pregunta":"Actualmente pesa mas de 13 kilos?",
+    "respuesta":false
+},
+{
+    "pregunta":"Se le hizo una ecografia a los 5 meses?",
+    "respuesta":true
+},
+{
+    "pregunta":"A los 7 meses pesaba casi 11 kg?",
+    "respuesta":true
+    
+},
+{
+    "pregunta":"Es un perro totalmente activo?",
+    "respuesta":false
+    
+},
+
+{
+    "pregunta":"Su primer juguete favorito fue EL AMARILLO?",
+    "respuesta":true
+}
+
+]    
+
